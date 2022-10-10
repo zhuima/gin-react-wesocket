@@ -900,3 +900,8 @@ warning@^4.0.0, warning@^4.0.3:
   integrity sha512-rpJyN222KWIvHJ/F53XSZv0Zl/accqHR8et1kpaMTD/fLCRxtV8iX8czMzY7sVZupTI3zcUTg8eycS2kNF9l6w==
   dependencies:
     loose-envify "^1.0.0"
+
+watermark-component-for-react@^1.0.0:
+  version "1.0.0"
+  resolved "https://mirrors.cloud.tencent.com/npm/watermark-component-for-react/-/watermark-component-for-react-1.0.0.tgz#c6b49960f38129ac3e1ec59b1a67cbef4040592c"
+  integrity sha512-s4skrV/USzjDVG6oMJu2czsaGS/29p1br5MY8l779KGKJtA2lwN5z5J8YOJDYPxGpBHGN0mI3zC07BvAMVH0OQ==
